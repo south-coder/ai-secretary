@@ -8,7 +8,7 @@ This project integrates screen capture, voice input, AI processing, and text-to-
 ---
 
 ## 🎬 Demo Video
-(영상은 아래에 추가 예정)
+[Watch Demo](https://youtu.be/oqLrI7nKdbc)
 
 ---
 
@@ -79,4 +79,4 @@ SACO
 ## 🎯 Final Note
 This project focuses on integrating multiple features into one seamless user experience.
 
-docs: add README
+Video icon address https://icons8.kr/icons
